@@ -20,7 +20,7 @@ Simulate electrohydrodynamics (EHD).
 ```
 
 #
-### Electrohydrodynamics
+### Electrohydrodynamics (EHD)
 
 Electrohydrodynamics (EHD) is a branch of fluid dynamics that studies the interactions between electrically charged fluids and electric fields. This field explores how electric fields can influence the motion of fluids and vice versa. The primary phenomenon in EHD is the movement of fluids under the influence of an electric field, which can result in complex behaviors such as fluid deformation, droplet manipulation, and flow instabilities. This interaction is governed by the coupling of the Navier-Stokes equations for fluid motion with Maxwell's equations for electromagnetism. The applications of EHD are diverse, ranging from inkjet printing and electrospinning to microfluidic devices and propulsion systems.
 
