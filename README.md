@@ -20,7 +20,7 @@ Simulate electrohydrodynamics (EHD).
 ```
 
 #
-### Electrohydrodynamic Reactor
+### Electrohydrodynamic Reactor (EHDR)
 
 An Electrohydrodynamic Reactor (EHDR) is a specialized device that leverages the principles of electrohydrodynamics, a field that studies the interaction between electric fields and fluid dynamics. The reactor operates by applying high-voltage electric fields to fluids, typically dielectric or insulating liquids, to induce motion within the fluid without any mechanical parts. This motion is generated through the Coulombic forces acting on free or bound charges within the fluid, leading to phenomena such as fluid pumping, mixing, or the formation of specific flow patterns. These effects are particularly useful in microfluidic applications, where precise control of fluid movement is required.
 
