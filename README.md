@@ -36,11 +36,15 @@ The core of an EHDR's operation involves the manipulation of the electric field 
 Applications of EHDRs are diverse, spanning from industrial processes to advanced scientific research. They are employed in processes such as the enhancement of heat and mass transfer in chemical reactors, the manipulation of biological cells in microfluidic devices, and the generation of aerosols in various technological applications. Additionally, EHDRs are used in environmental technologies, such as air purification and water treatment, where their ability to control fluid flow and enhance mixing at microscale levels is highly beneficial. The versatility and precision offered by EHD technology make these reactors a powerful tool in fields requiring controlled fluid manipulation without reliance on mechanical systems.
 
 #
-### Computational Electrohydrodynamic Reactor (CEHDR)
+### Computational Electrohydrodynamic Reactor (CEHDR) Concept
 
 The concept of a Computational Electrohydrodynamic Reactor (CEHDR) is a novel and distinct advancement in the field of electrohydrodynamics (EHD). While EHD itself has been extensively studied, the idea of integrating a dedicated computational framework with a reactor setup to systematically investigate and optimize EHD processes represents a significant innovation. This concept goes beyond traditional experimental reactors by combining physical experimentation with high-fidelity simulations, enabling researchers to explore complex interactions between electric fields and fluids in ways that were previously impractical. The CEHDR allows for the fine-tuning of parameters such as electric field intensity, fluid properties, and geometric configurations in a virtual environment before implementing them in physical systems, thereby reducing the need for extensive trial-and-error experimentation.
 
 What makes the Computational Electrohydrodynamic Reactor particularly original is its holistic approach to EHD research and application. It serves not just as a tool for experimentation but as an integrated platform where computational models directly inform the design and operation of physical reactors. This integration creates a feedback loop where simulations and real-world data continuously refine each other, leading to more precise and efficient EHD processes. Such a reactor is distinct in that it is specifically tailored to handle the unique challenges of EHD phenomena, which involve highly coupled, nonlinear interactions between electric fields and fluid dynamics. The CEHDR thus represents a new paradigm in the study and application of electrohydrodynamics, offering unprecedented capabilities in both understanding and harnessing these complex processes.
+
+#
+
+> Alex: "*I developed the first Computational Electrohydrodynamic Reactor (CEHDR) concept.*"
 
 #
 ### Related Links
