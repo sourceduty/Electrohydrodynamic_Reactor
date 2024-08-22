@@ -16,7 +16,6 @@ Additionally, the EHD Reactor follows a methodical approach when interacting wit
 Simulate and develop electrohydrodynamic concepts.
 Simulate an Electrohydrodynamic Reactor (EHDR).
 Simulate a Computational Electrohydrodynamic Reactor (CEHDR).
-Simulate a Computational Electrohydrodynamic Reactor (CEHDR).
 ```
 
 #
