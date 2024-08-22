@@ -10,6 +10,15 @@ The EHD Reactor operates with a strict focus on technical accuracy, avoiding any
 
 Additionally, the EHD Reactor follows a methodical approach when interacting with users, guiding them through a step-by-step multiple-choice process to ensure that the responses are tailored to their specific inquiries. This structured interaction helps in refining the information provided, making it highly relevant and actionable for the user's particular context. The overall goal of this custom GPT is to be a dependable resource for advanced technical guidance in the specialized field of electrohydrodynamics.
 
+<br>
+
+```
+Simulate and develop electrohydrodynamic concepts.
+Simulate an Electrohydrodynamic Reactor (EHDR).
+Simulate a Computational Electrohydrodynamic Reactor (CEHDR).
+Simulate a Computational Electrohydrodynamic Reactor (CEHDR).
+```
+
 #
 ### Electrohydrodynamic Reactor
 
