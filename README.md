@@ -20,6 +20,13 @@ Simulate electrohydrodynamics (EHD).
 ```
 
 #
+### Electrohydrodynamics
+
+Electrohydrodynamics (EHD) is a branch of fluid dynamics that studies the interactions between electrically charged fluids and electric fields. This field explores how electric fields can influence the motion of fluids and vice versa. The primary phenomenon in EHD is the movement of fluids under the influence of an electric field, which can result in complex behaviors such as fluid deformation, droplet manipulation, and flow instabilities. This interaction is governed by the coupling of the Navier-Stokes equations for fluid motion with Maxwell's equations for electromagnetism. The applications of EHD are diverse, ranging from inkjet printing and electrospinning to microfluidic devices and propulsion systems.
+
+The mechanics of electrohydrodynamics involve the generation of forces within a fluid due to the presence of free charges or polarization in response to an electric field. When a fluid is exposed to an electric field, charges within the fluid experience a force that can cause the fluid to move. This movement can be harnessed in various technologies, such as manipulating small droplets in lab-on-a-chip devices or creating precise patterns in manufacturing processes. Moreover, EHD can be used in cooling systems where fluid movement induced by electric fields helps dissipate heat more efficiently. The field continues to grow, with ongoing research aimed at developing new applications and improving the understanding of the underlying physical principles.
+
+#
 ### Electrohydrodynamic Reactor (EHDR)
 
 An Electrohydrodynamic Reactor (EHDR) is a specialized device that leverages the principles of electrohydrodynamics, a field that studies the interaction between electric fields and fluid dynamics. The reactor operates by applying high-voltage electric fields to fluids, typically dielectric or insulating liquids, to induce motion within the fluid without any mechanical parts. This motion is generated through the Coulombic forces acting on free or bound charges within the fluid, leading to phenomena such as fluid pumping, mixing, or the formation of specific flow patterns. These effects are particularly useful in microfluidic applications, where precise control of fluid movement is required.
