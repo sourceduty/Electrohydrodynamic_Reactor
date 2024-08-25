@@ -74,6 +74,8 @@ Additionally, real-time data acquisition and control systems are crucial for int
 [Reactors](https://github.com/sourceduty/Reactors)
 <br>
 [Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
+<br>
+[Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
